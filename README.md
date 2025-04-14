@@ -22,7 +22,8 @@ This repository is maintained by the Flatcar community and contributors. Develop
 Please find information on:
 
 - [Contribution Guide](https://github.com/flatcar/Flatcar/blob/main/CONTRIBUTING.md) – how to get involved and submit patches.
-- [Repository Maintainers/Codeowners](./CODEOWNERS) – who’s responsible for what in this repository.
+- [Repository Codeowners](./CODEOWNERS) – who's assigned for contribution reviews in this repository.
+- [Repository Maintainers](./MAINTAINERS.md) – who’s responsible for what in this repository.
 - [Flatcar Project Maintainers](https://github.com/flatcar/Flatcar/blob/main/MAINTAINERS.md) – who’s responsible for what at Flatcar.
 - [Governance](https://github.com/flatcar/Flatcar/blob/main/governance.md) – how decisions are made and who the stakeholders are.
 - [Code of Conduct](./code-of-conduct.md) – our commitment to a welcoming and inclusive community.
